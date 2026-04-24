@@ -1,0 +1,17 @@
+/* CSS by Ava Lusk */
+/* Color Palette
+slate blue=#3F6F8C
+light blue=#88B0BF
+burnt orange=#BF6D4E
+coral pink=#F28F79
+dark brown=#261E1C
+*/
+
+/* Global Styles (Mobile-First) */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #88B0BF; /* light blue */
+    color: #261E1C; /* dark brown */
+    margin: 0;
+    padding: 0;
+}
